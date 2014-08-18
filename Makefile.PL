@@ -26,8 +26,8 @@ WriteMakefile(
         requires     => { perl => '5.006' },
         resources    => {
             license    => 'http://www.opensource.org/licenses/artistic-license-2.0',
-            repository => 'http://github.com/kraih/mojo',
-            bugtracker => 'http://github.com/kraih/mojo/issues'
+            repository => 'http://github.com/oliwer/IPC-Open2-Simple',
+            bugtracker => 'http://github.com/oliwer/IPC-Open2-Simple/issues'
         },
         no_index     => { directory => ['t'] }
     },

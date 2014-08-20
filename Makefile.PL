@@ -8,7 +8,7 @@ WriteMakefile(
     AUTHOR           => 'Olivier Duclos <odc@cpan.org>',
     VERSION_FROM     => 'lib/IPC/Open2/Simple.pm',
     ABSTRACT_FROM    => 'lib/IPC/Open2/Simple.pm',
-    LICENSE          => 'Artistic_2_0',
+    LICENSE          => 'artistic_2',
     MIN_PERL_VERSION => 5.006,
     CONFIGURE_REQUIRES => {
         'ExtUtils::MakeMaker' => 0,
